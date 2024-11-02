@@ -25,6 +25,7 @@ Results: Achieved 85% accuracy, outperforming the baseline by 20%, and provided 
 👀 Curious? See the full project hereLinks to an external site.. 
 --->
 
+<hr>
 🎯 Featured Project: Pokemon Pokedex iOS App <br>
 Check out my work on this iOS app built using Swift and SwiftUI by utilizing data from the Pokemon API and parsing the JSON files! It includes all 1,302 pokemon. 
 
