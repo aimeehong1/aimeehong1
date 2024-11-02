@@ -31,3 +31,12 @@ Check out my work on this iOS app built using Swift and SwiftUI by utilizing dat
 
 Tools: Swift, SwiftUI
 👀 Curious? See the full project <a href="https://github.com/aimeehong1/CatchEmAll">here</a>
+
+<br>
+
+🛠 Tech Stack: <br>
+Programming Languages: Python, Java, C, HTML, CSS, JavaScript, Ruby <br>
+Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, STATA <br>
+Databases: MySQL <br>
+Development Tools: Jupyter Notebooks, Google Colab <br>
+Version Control: Git, GitHub <br>
