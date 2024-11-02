@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aimeehong1
+- 📖 I'm studying Computer Science & Economics with a minor in Finance as a Junior @ Boston College
 - 👀 I’m interested in sports, reading, movies, sunsets, escape rooms, and personal finance
 - 🌱 I’m currently learning iOS and web app development
 - 💞️ I’m looking to collaborate on a web application project
