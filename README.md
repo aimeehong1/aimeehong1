@@ -15,22 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimeehong1)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-🎯 Featured Project: Sentiment Analysis for American ExpressLinks to an external site.
-Check out my work on this sentiment analysis project for American Express! My team and I developed a model to analyze customer feedback from social media, helping the company extract valuable insights to improve their customer support.
+🎯 Featured Project: Motor Control Analysis <br>
+Check out my work on this motor control classification project for MathWorks! My team and I developed a model to predict motor fault and anomalies based on their electrical and mechanical signals, helping the company simulate the model in a closed-loop environment and understand the business implications and tradeoffs of each model.
 
-Tools: Python, spaCy, scikit-learn
-What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral).
-Results: Achieved 85% accuracy, outperforming the baseline by 20%, and provided insights that helped guide data-driven improvements in customer service.
-👀 Curious? See the full project hereLinks to an external site.. 
---->
-
-<hr>
-🎯 Featured Project: Pokemon Pokedex iOS App <br>
-Check out my work on this iOS app built using Swift and SwiftUI by utilizing data from the Pokemon API and parsing the JSON files! It includes all 1,302 pokemon. 
-
-Tools: Swift, SwiftUI
-👀 Curious? See the full project <a href="https://github.com/aimeehong1/CatchEmAll">here</a>
+Tools: MATLAB and Simulink <br>
+What We Did: Preprocessed and filtered vibration signals generated from our system of three-phase induction motors. Then we analyzed the data using supervised learning and deep learning approaches. <br>
+Results: Achieved 87.5% accuracy, precision score of 87.5%, and recall score of 88.4%. Provided insights that helped balance model performance with computational intensity and business implications. 
+👀 Curious? See the full project here <a href="https://github.com/aimeehong1/MotorControlAI">
 
 <br>
 
