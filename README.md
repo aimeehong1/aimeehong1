@@ -21,7 +21,7 @@ Check out my work on this motor control classification project for MathWorks! My
 Tools: MATLAB and Simulink <br>
 What We Did: Preprocessed and filtered vibration signals generated from our system of three-phase induction motors. Then we analyzed the data using supervised learning and deep learning approaches. <br>
 Results: Achieved 87.5% accuracy, precision score of 87.5%, and recall score of 88.4%. Provided insights that helped balance model performance with computational intensity and business implications. 
-👀 Curious? See the full project here <a href="https://github.com/aimeehong1/MotorControlAI">
+👀 Curious? See the full project here: <a href="https://github.com/aimeehong1/MotorControlAI">Motor Control Analysis</a>
 
 <br>
 
