@@ -26,8 +26,8 @@ Results: Achieved 87.5% accuracy, precision score of 87.5%, and recall score of 
 <br>
 
 🛠 Tech Stack: <br>
-Programming Languages: Python, Java, C, HTML, CSS, JavaScript, Ruby <br>
-Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib, STATA <br>
+Programming Languages: Python, Java, C, HTML, CSS, Swift, JavaScript, Ruby<br>
+Libraries & Frameworks: React, scikit-learn, Pandas, NumPy, matplotlib, STATA <br>
 Databases: MySQL <br>
 Development Tools: Jupyter Notebooks, Google Colab <br>
 Version Control: Git, GitHub <br>
